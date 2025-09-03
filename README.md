@@ -1,4 +1,4 @@
-# Research‑Only Security Tools (README)
+# Research‑Only Security Tools (Net attacks simulation)
 
 > **Purpose:** This repository contains proof‑of‑concept scripts for studying common attack patterns **inside a controlled lab**. They are provided **exclusively for legal, research, and defensive education**. Do **not** run them on any system or network you do not own or lack **written authorization** to test.
 
